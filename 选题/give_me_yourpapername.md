@@ -20,8 +20,8 @@
 
 ## 填写说明：
 
-![rewrite](../figures/rewrite.png)
-![re_ori](../figures/re_ori.png ) 
-![re_fin](../figures/re_fin.png ) 
-![re_tijiao](../figures/re_tijiao.png ) 
-![re_chakan](../figures/re_chakan.png ) 
+![rewrite](figures/rewrite.png)
+![re_ori](figures/re_ori.png ) 
+![re_fin](figures/re_fin.png ) 
+![re_tijiao](figures/re_tijiao.png ) 
+![re_chakan](figures/re_chakan.png ) 
