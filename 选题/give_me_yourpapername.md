@@ -9,47 +9,13 @@
         <td>社会生产或实践</td>
         <td>实践性研究课题 </td><td> 实习实践活动</td><td>大学生创业计划项目 </td><td> 其他</td>
     </tr>
-	<tr> <td>举例 </td><td>统计学 </td><td> 12046 </td><td>陈放 </td><td> 一类经济问题经验似然的估计问题研究</td><td>是 </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-	<!--哈哈我是注释，不会在浏览器中显示。-->
-    <tr> <td>1 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>2 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td> 3</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>4 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>5 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>6 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>7 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>8 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td> 9</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>10 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>11 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>12 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>13 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td>14 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td> 15</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td> 16</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td> 17</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td> 18</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td> 19</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
-<tr> <td> 20</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
-    </tr>
+	<! 请拷贝下面的东西，然后粘贴到下面>
+	<tr> <td> 填写你的序号 </td><td>你的专业 </td><td> 你的学号 </td><td>你的名字 </td><td> 你的论文题目</td><td>填是或否 </td><td>填是或否 </td><td>填是或否 </td><td>填是或否 </td><td>填是或否</td></tr>
+	<! 你的拷贝到此结束-->
+	
+	
+	
+<!你的粘贴内容必须在table前面，而不能放到table后面 -->
 </table>
+
+## 填写说明：
