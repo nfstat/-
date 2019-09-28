@@ -18,11 +18,3 @@
 <!你的粘贴内容必须在table前面，而不能放到table后面 -->
 </table>
 
-## 填写说明：大家进来按照下面的步骤填写你的选题内容
-
-![rewrite](../figures/rewrite.png)
-
-![re_ori](../figures/re_ori.png ) 
-![re_fin](../figures/re_fin.png ) 
-![re_tijiao](../figures/re_tijiao.png ) 
-![re_chakan](../figures/re_chakan.png ) 
