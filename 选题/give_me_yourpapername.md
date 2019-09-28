@@ -1,22 +1,42 @@
 # 中山大学南方学院    商学院      院（系）毕业论文（设计）学生选题和指导教师安排表（2018届）
 
+
+
 <table>
     <tr>
-        <th rowspan="2">真实情况</th>
-        <th colspan="2">预测结果</th>
-    </tr>
+		<th rowspan="2"> 序号 </th>	<th rowspan="2"> 专业 </th>	<th rowspan="2">学号 </th>	<th rowspan="2">姓名 </th>	<th rowspan="2">毕业论文题目 </th>  <th colspan="5"> 选题来源</th>  </tr>
     <tr>
-        <td>正例</td>
-        <td>反例</td>
+        <td>社会生产或实践</td>
+        <td>实践性研究课题 </td><td> 实习实践活动</td><td>大学生创业计划项目 </td><td> 其他</td>
     </tr>
-    <tr>
-        <td>正例</td>
-        <td>TP(真正例)</td>
-        <td>FN(假反例)</td>
+    <tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
     </tr>
-    <tr>
-        <td>反例</td>
-        <td>FP(假正例)</td>
-        <td>TN(真反例)</td>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+    </tr>
+<tr> <td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
     </tr>
 </table>
